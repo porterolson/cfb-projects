@@ -12,3 +12,6 @@ wheels/
 #data files
 *.csv
 *.parquet
+
+#.python version file
+*.python-version
